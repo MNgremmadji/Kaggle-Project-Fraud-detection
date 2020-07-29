@@ -2,4 +2,4 @@ This repo contains data and code about fraud detection competition on kaggle. I 
 
 Data contains train, test and submission data set.
 
-Code holds python notebook.
+Code is the python notebook.
